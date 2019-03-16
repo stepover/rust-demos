@@ -1,7 +1,5 @@
 [workspace]
 
 members = [
-    "thrift_tutorial_client",
-    "thrift_tutorial_server",
-    "thrift_tutorial",
+    "thrift",
 ]
