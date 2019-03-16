@@ -1,0 +1,9 @@
+[package]
+name = "tokio-demo"
+version = "0.1.0"
+authors = ["stepover <simonxiao@qq.com>"]
+edition = "2018"
+
+[dependencies]
+tokio = "0.1.17"
+futures = "0.1.20"
